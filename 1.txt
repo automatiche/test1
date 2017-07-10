@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first change :1
+=======
+this is  another 1.txt message from branch dev , i will pull it from here ---the remote to local branch dev1, to see if it will merge to  dev1 automatically, otherwise , merge it to
+>>>>>>> 881390023241dfb9199ab039192223290c1e9c0c
