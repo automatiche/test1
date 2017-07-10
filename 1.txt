@@ -1,2 +1,1 @@
-this is the another 1.txt message from branch dev , i will pull it from the remote to the origin branch dev1, to see if it will merge to the
-dev1 automatical, otherwise , merge it to
+this is  another 1.txt message from branch dev , i will pull it from here ---the remote to local branch dev1, to see if it will merge to  dev1 automatically, otherwise , merge it to
