@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 This repository is an universal React-ES6-Webpack boilerplate for developer to quickly build a super fast and powerful web app that can be rendered on the client using the most cutting-edge technology. Compared to others, this boilerplate has more pithily and more elegant configuration file based on environment variables, one for development, one for production.
@@ -65,3 +66,6 @@ This repository is an universal React-ES6-Webpack boilerplate for developer to q
 ## License
 
 [MIT](https://github.com/chikara-chan/react-isomorphic-boilerplate/blob/master/LICENSE)
+=======
+this is a demo that �发链接水电费saffron水电费wefjdfjlj:wq
+>>>>>>> ab4fa813e2aa00ad0a01586c0dadf7d005c91efb
