@@ -68,4 +68,8 @@ This repository is an universal React-ES6-Webpack boilerplate for developer to q
 [MIT](https://github.com/chikara-chan/react-isomorphic-boilerplate/blob/master/LICENSE)
 =======
 this is a demo that �发链接水电费saffron水电费wefjdfjlj:wq
+<<<<<<< HEAD
 >>>>>>> ab4fa813e2aa00ad0a01586c0dadf7d005c91efb
+=======
+>>>>>>> ae16f655312d159a72be473d9d217711034bace0
+>>>>>>> dev2
