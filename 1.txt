@@ -8,3 +8,10 @@ this is  another 1.txt message from branch dev , i will pull it from here ---the
 ---
 上次手动提交，看来内容被自动合并了，没有涉及merge关键字，这次直接pull到dev2分支，然后merge到dev1分支，再push试试
 >>>>>>> dev2
+---
+在dev2无法直接merge，必须先commit提交才可以切换到dev1,然后在dev1再merge，提示冲突，必须先commit提交改动，commit后自动进入vi界面提示确认，然后如下
+显示已merge...
+λ git commit -a
+[dev1 3631beb] Merge branch 'dev2' into dev1
+
+是否因为冲突，而不是单方面的修改？明天再试一下
