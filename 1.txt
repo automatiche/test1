@@ -1,3 +1,2 @@
-this is  another 1.txt message from branch dev , i will pull it from here ---the remote to local branch dev1, to see if it will merge to  dev1 automatically, otherwise , merge it to
----
-上次手动提交，看来内容被自动合并了，没有涉及merge关键字，这次直接pull到dev2分支，然后merge到dev1分支，再push试试
+
+sorry last
