@@ -14,4 +14,4 @@ this is  another 1.txt message from branch dev , i will pull it from here ---the
 λ git commit -a
 [dev1 3631beb] Merge branch 'dev2' into dev1
 
-是否因为冲突，而不是单方面的修改？明天再试一下
+
