@@ -12,8 +12,4 @@ t-dev Headers
 
 t- dev there 
 
-<<<<<<< HEAD
 'conflict 2  dev1'
-=======
-conflick   dev
->>>>>>> dev
